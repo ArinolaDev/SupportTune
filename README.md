@@ -2,7 +2,7 @@
 
 **A fine-tuned LLM specialized in SaaS billing and subscription customer support, trained with LoRA on a custom dataset, proven with real before/after evidence.**
 
-🔗 **Live showcase:** _add your Vercel URL here_
+🔗 **Live showcase:** https://support-tune.vercel.app
 🔗 **Run the training + inference live:** [Open in Colab](https://colab.research.google.com/drive/1XA9GOQlvHioLRJZIjiJ00ry80wfx6CJm?usp=sharing)
 
 > This is a demonstration project. Responses shown are simulated guidance, not real account actions.
@@ -43,7 +43,7 @@ disclaimer-laden answers.
 | Training loss | 2.90 → 1.23 across 3 epochs |
 | Validation loss | 1.63 → 1.30 across 3 epochs |
 
-See the full before/after comparisons on the [live showcase](#) or in
+See the full before/after comparisons on the [live showcase](https://support-tune.vercel.app) or in
 [`training/eval/evaluation_results.json`](training/eval/evaluation_results.json).
 
 ## Tech stack
