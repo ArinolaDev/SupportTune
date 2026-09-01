@@ -5,6 +5,12 @@
 🔗 **Live showcase:** https://support-tune.vercel.app
 🔗 **Run the training + inference live:** [Open in Colab](https://colab.research.google.com/drive/1XA9GOQlvHioLRJZIjiJ00ry80wfx6CJm?usp=sharing)
 
+
+
+https://github.com/user-attachments/assets/daecb298-acb5-4cac-b551-3f651831407c
+
+
+
 > This is a demonstration project. Responses shown are simulated guidance, not real account actions.
 
 ## The problem
